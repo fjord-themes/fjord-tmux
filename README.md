@@ -52,7 +52,7 @@ git clone https://github.com/fjord-themes/fjord-tmux.git --depth 1
 Add this line to your `~/.tmux.conf`:
 
 ```tmux
-set -g @plugin 'fjord-theme/fjord-tmux'
+set -g @plugin 'fjord-themes/fjord-tmux'
 ```
 
 Then press `prefix` + <kbd>I</kbd> to fetch and install the plugin.
@@ -62,7 +62,7 @@ Then press `prefix` + <kbd>I</kbd> to fetch and install the plugin.
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/fjord-theme/fjord-tmux ~/.tmux/plugins/fjord-tmux
+git clone https://github.com/fjord-themes/fjord-tmux ~/.tmux/plugins/fjord-tmux
 ```
 
 2. Add this line to your `~/.tmux.conf`:
@@ -110,15 +110,9 @@ Fjord supports the following plugins:
 To use tmux-prefix-highlight, install it AFTER the Fjord theme:
 
 ```tmux
-set -g @plugin 'fjord-theme/tmux-fjord'
+set -g @plugin 'fjord-themes/fjord-tmux'
 set -g @plugin 'tmux-plugins/tmux-prefix-highlight'
 ```
-## 📸 Preview
-
-![Fjord Tmux Theme](https://github.com/fjord-themes/fjord-tmux/blob/main/images/clock.png)
-
-
-![Additional Preview](https://github.com/fjord-themes/fjord-tmux/blob/main/images/helix.png)
 
 ## 🔄 Updates
 
