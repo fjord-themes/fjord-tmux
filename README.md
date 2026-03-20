@@ -33,18 +33,14 @@ A clean and elegant tmux color theme plugin with the Fjord color scheme inspired
 ### Manual Installation
 
 
-1. Clone this repository:
+1. Clone the theme to your config directory:
 
 ```bash
-git clone https://github.com/fjord-themes/fjord-tmux.git --depth 1
+mkdir -p 
+git clone https://github.com/fjord-themes/fjord-tmux.git --depth 1 
 ```
 
-
-
-2. Add the theme to your Tmux config (`~/.tmux.conf`):
-
-
-
+2. Add to your config (`~/.tmux.conf`):
 
 
 ### Using TPM
