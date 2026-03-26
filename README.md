@@ -2,6 +2,7 @@
 
 A clean and elegant tmux color theme plugin with the Fjord color scheme inspired by Nord and Ayu Mirage.
 
+
 ## 🎨 Color Palette
 
 ### Core Colors
@@ -109,7 +110,6 @@ To use tmux-prefix-highlight, install it AFTER the Fjord theme:
 set -g @plugin 'fjord-themes/fjord-tmux'
 set -g @plugin 'tmux-plugins/tmux-prefix-highlight'
 ```
-
 ## 🔄 Updates
 
 This theme is automatically generated from [fjord-core](https://github.com/fjord-themes/fjord-core) and deployed on every release. For an overview of all supported platforms and the full color palette, visit the [Fjord GitHub page](https://github.com/fjord-themes).
