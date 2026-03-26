@@ -37,7 +37,7 @@ A clean and elegant tmux color theme plugin with the Fjord color scheme inspired
 
 ```bash
 mkdir -p 
-git clone https://github.com/fjord-themes/fjord-tmux.git --depth 1 
+git clone https://git.jshuntley.com/fjord-theme/fjord-tmux.git --depth 1 
 ```
 
 2. Add to your config (`~/.tmux.conf`):
@@ -58,7 +58,7 @@ Then press `prefix` + <kbd>I</kbd> to fetch and install the plugin.
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/fjord-themes/fjord-tmux ~/.tmux/plugins/fjord-tmux
+git clone https://git.jshuntley.com/fjord-theme/fjord-tmux ~/.tmux/plugins/fjord-tmux
 ```
 
 2. Add this line to your `~/.tmux.conf`:
@@ -112,7 +112,7 @@ set -g @plugin 'tmux-plugins/tmux-prefix-highlight'
 
 ## 🔄 Updates
 
-This theme is automatically generated from [fjord-core](https://github.com/fjord-themes/fjord-core) and deployed on every release. For an overview of all supported platforms and the full color palette, visit the [Fjord theme page](https://github.com/fjord-themes/fjord).
+This theme is automatically generated from [fjord-core](https://git.jshuntley.com/fjord-theme/fjord-core) and deployed on every release. For an overview of all supported platforms and the full color palette, visit the [Fjord theme page](https://git.jshuntley.com/fjord-theme).
 ## ☕ Support My Work
 
 If you enjoy the Fjord theme and find it useful, consider supporting my work:
@@ -123,4 +123,4 @@ If you enjoy the Fjord theme and find it useful, consider supporting my work:
 MIT License - see [LICENSE](LICENSE) file for details.
 ## 🤝 Contributing
 
-For theme suggestions or issues, please open an issue on [fjord-core](https://github.com/fjord-themes/fjord-core). For an overview of the project, visit the [Fjord theme page](https://github.com/fjord-themes/fjord).
+For theme suggestions or issues, please open an issue on [fjord-core](https://git.jshuntley.com/fjord-theme/fjord-core). For an overview of the project, visit the [Fjord theme page](https://git.jshuntley.com/fjord-theme).
