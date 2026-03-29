@@ -47,7 +47,7 @@ Then press `prefix` + <kbd>I</kbd> to fetch and install the plugin.
 
 1. Clone this repository:
 ```bash
-git clone https://git.jshuntley.com/fjord-theme/fjord-tmux.git ~/.tmux/plugins/fjord-tmux
+git clone https://github.com/fjord-themes/fjord-tmux.git ~/.tmux/plugins/fjord-tmux
 ```
 
 2. Add this line to your `~/.tmux.conf`:
