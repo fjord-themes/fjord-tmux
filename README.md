@@ -1,6 +1,6 @@
 # Fjord Theme for Tmux
 
-A clean and elegant tmux color theme plugin with the Fjord color scheme inspired by Nord and Ayu Mirage.
+A clean and elegant tmux color theme plugin with a dusk-blue base, primary leaf-green accents, and crisp blue/cyan separation.
 
 
 ## 🎨 Color Palette
